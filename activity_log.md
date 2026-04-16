@@ -5,3 +5,4 @@
 - [2026-04-16T10:26:48Z] feat: add helper utility function
 - [2026-04-16T18:37:13Z] refactor: simplify conditional logic
 - [2026-04-16T10:26:03Z] refactor: clean up unused imports
+- [2026-04-16T10:58:09Z] chore: remove deprecated API calls
